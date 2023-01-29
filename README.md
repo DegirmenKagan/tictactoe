@@ -1,4 +1,6 @@
 <h2>Classic Tic Tac Toe with React.js</h2>
+<h4> Project deploy link</h4>
+<h5>https://tictactoe-six-tawny.vercel.app/ </h5>
 <ol> 
   <li>Lets you play tic-tac-toe,</li>
   <li> Indicates when a player has won the game, </li>
